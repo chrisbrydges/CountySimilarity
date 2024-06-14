@@ -1,5 +1,5 @@
 # CountySimilarity
-County Demographic Similarity Calculator is an R Shiny dashboard to calculate which US counties are most similar to each other. The dashboard can be found at https://chrisbrydges.shinyapps.io/CountyDemographicSimilarity/
+County Demographic Similarity Calculator is an R Shiny dashboard to calculate which US counties are most similar to each other. The dashboard can be found at https://chrisbrydges.shinyapps.io/CountySimilarity/
 
 Data for this app has been extracted from the US Census data using the official APIs and the R censusapi package. 
 
